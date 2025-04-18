@@ -33,3 +33,32 @@ This project presents a detailed **Air Quality Analysis Dashboard** built using 
 
 
 ![Screenshot 2025-04-18 032127](https://github.com/user-attachments/assets/b9a1014d-05e7-47e6-9ab4-b470cca0eec9)
+
+
+---
+
+## 🧮 Tools Used
+
+- **Microsoft Excel**
+  - Pivot Tables
+  - Pivot Charts
+  - Slicers
+  - Conditional Formatting
+  - 3D Charts
+  - Data Filtering & Aggregation
+
+---
+
+## 🧠 Key Insights
+
+- Particulate Matter (PM) and Nitrogen Dioxide (NO₂) are major pollutants.
+- Winter seasons tend to show higher pollution levels.
+- Some NYC areas are significantly more polluted than others.
+- Vehicle miles traveled show a strong link to pollution trends.
+- Predictive graphs hint at emerging patterns in air quality.
+
+---
+
+
+
+
